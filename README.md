@@ -1,9 +1,9 @@
 # Academic-Projects
 ## Project 1 URL:
-https://Feyza-Sakin@github.com/resumeToken/Project1.git
+https://Feyza-Sakin:resumeToken@github.com/Feyza-Saki/Project1.git
 ## Project 2 URL:
-https://Feyza-Sakin@github.com/resumeToken/Project2.git
+https://Feyza-Sakin:resumeToken@github.com/Feyza-Saki/Project2.git
 ## Project 3:
-https://Feyza-Sakin@github.com/resumeToken/Project3.git
+https://Feyza-Sakin:resumeToken@github.com/Feyza-Saki/Project3.git
 ## PING Application:
-https://Feyza-Sakin@github.com/resumeToken/PING-Application.git
+https://Feyza-Sakin:resumeToken@github.com/Feyza-Saki/PING-Application.git
